@@ -1,0 +1,13 @@
+# SPDX-License-Identifier: GPL-2.0-or-laterexamples/crc-ccitt
+/examples/crc-ccitt
+/examples/crc-ccittf
+/examples/crc-itut
+/examples/crc-rocksoft
+/examples/crc-t10dif
+/examples/crc4
+/examples/crc7
+/examples/crc8
+/examples/crc16
+/examples/crc32
+/examples/crc64
+*.o
